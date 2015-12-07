@@ -6,4 +6,7 @@ module ranjancountcontig11 {
 	/*
 	Insert your typespec information here.
 	*/
+ typedef string contig;
 };
+
+
